@@ -1,0 +1,10 @@
+GIT BASH --> SSH --> PEM
+Putty --> SSH --> PPK
+https://www.devopsschool.com/blog/how-to-login-linux-server-of-aws-from-windows-using-putty/
+ssh -i rajesh-training.pem ubuntu@18.118.132.70
+
+
+LAB -
+https://devopsschool.com/tutorial/aws/lab/computing/aws-lab-excercise-3.html
+https://devopsschool.com/tutorial/aws/lab/computing/aws-lab-excercise-2.html
+https://devopsschool.com/tutorial/aws/lab/computing/aws-lab-excercise-3.html
